@@ -37,7 +37,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
--   **designación_anio (date):** año de designación del juez, fiscal o defensor
+-   **designacion_anio (date):** año de designación del juez, fiscal o defensor
 
 -   **cargo_tipo (string):** tipo de cargo. Toma los valores:
 
