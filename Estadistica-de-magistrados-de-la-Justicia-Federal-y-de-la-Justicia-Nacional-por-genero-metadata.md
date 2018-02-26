@@ -3,6 +3,8 @@ Estadística de magistrados de la Justicia Federal y de la Justicia Nacional por
 
 En este conjunto de datos se detalla la cantidad de hombres/mujeres designados/as desde el año 2000 hasta la fecha en la justicia nacional y de la justicia federal de la República Argentina, cargo que ocupan, ámbito y materia de competencia del juzgado.
 
+http://datos.jus.gob.ar/dataset/estadistica-de-magistrados-de-la-justicia-federal-y-de-la-justicia-nacional-por-genero
+
 Características
 ---------------
 
@@ -27,7 +29,7 @@ Recursos disponibles
 
 -   **Nombre:** estadistica-designacion-magistrados-federal-nacional-por-genero-AAAA-MM-DD.csv
 
--   **Descripción:** detalla de la cantidad de hombres/mujeres designados/as desde el año 2000 hasta la fecha en la justicia nacional y de la justicia federal de la República Argentina, cargo que ocupan, ámbito y materia de competencia del juzgado
+-   **Descripción del contenido:** se detalla la cantidad de hombres/mujeres designados/as desde el año 2000 hasta la fecha en la justicia nacional y de la justicia federal de la República Argentina, cargo que ocupan, ámbito y materia de competencia del juzgado
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
