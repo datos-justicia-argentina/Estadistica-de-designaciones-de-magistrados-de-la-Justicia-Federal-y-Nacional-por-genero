@@ -10,7 +10,7 @@ Características
 
 -   **Fecha de Primera** **Publicación:**
 
--   **Tags o Etiquetas:** cargo, defensor, federal, fiscal, juez, justicia, magistrado, nacional
+-   **Tags o Etiquetas:** cargos, defensores, federales, fiscales, jueces, justicia, magistrados, nacionales
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
 
