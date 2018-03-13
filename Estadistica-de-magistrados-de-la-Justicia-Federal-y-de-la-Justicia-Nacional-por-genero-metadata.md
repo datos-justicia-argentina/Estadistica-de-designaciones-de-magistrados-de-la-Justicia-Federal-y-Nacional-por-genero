@@ -8,7 +8,7 @@ http://datos.jus.gob.ar/dataset/estadistica-de-magistrados-de-la-justicia-federa
 Características
 ---------------
 
--   **Fecha de Primera** **Publicación:**
+-   **Fecha de Primera** **Publicación:** 19/03/2018
 
 -   **Tags o Etiquetas:** cargos, defensores, federales, fiscales, jueces, justicia, magistrados, nacionales
 
@@ -76,3 +76,7 @@ Recursos disponibles
 -   **Cantidad_varones (string):** Cantidad de varones designados
 
 -   **Cantidad_mujeres (string):** Cantidad de mujeres designadas
+
+Notas: 
+-------
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante Resolución del Ministerio de Justicia y Derechos Humanos RESOL-2017-881-APN-MJ, del 14 de Noviembre de 2017.
