@@ -80,3 +80,5 @@ Recursos disponibles
 Notas: 
 -------
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante Resolución del Ministerio de Justicia y Derechos Humanos [RESOL-2017-881-APN-MJ](http://datos.jus.gob.ar/resoluciones/RESOL-2017-881-APN-MJ.pdf), del 14 de Noviembre de 2017.
+
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 881 del Ministerio de Justicia y Derechos Humanos, del 14 de Noviembre de 2017](http://datos.jus.gob.ar/resoluciones/RESOL-2017-881-APN-MJ.pdf).
