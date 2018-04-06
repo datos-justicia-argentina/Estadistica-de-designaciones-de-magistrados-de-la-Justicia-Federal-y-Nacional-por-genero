@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** designaciones entre enero de 2000 y la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** Cantidad de hombres/mujeres designados/as desde el año 2000 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
