@@ -1,4 +1,4 @@
-Estadística de magistrados de la Justicia Federal y de la Justicia Nacional por género
+Estadística de designaciones de magistrados de la Justicia Federal y de la Justicia Nacional por género
 ======================================================================================
 
 En este conjunto de datos se detalla la cantidad de hombres/mujeres designados/as desde el año 2000 hasta la fecha en la justicia nacional y de la justicia federal de la República Argentina, cargo que ocupan, ámbito y materia de competencia del juzgado.
