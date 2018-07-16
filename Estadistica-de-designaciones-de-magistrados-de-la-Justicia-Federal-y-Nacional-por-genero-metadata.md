@@ -77,6 +77,14 @@ Recursos disponibles
 
 -   **Cantidad_mujeres (string):** Cantidad de mujeres designadas
 
+### Estadística de designaciones de magistrados de la Justicia Federal y Nacional por género - AAAA
+
+-   **Nombre:**  estadistica-designacion-magistrados-federal-nacional-por-genero-AAAA.zip
+
+-   **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+-   **Formato:** ZIP
+
 Notas: 
 -------
 
