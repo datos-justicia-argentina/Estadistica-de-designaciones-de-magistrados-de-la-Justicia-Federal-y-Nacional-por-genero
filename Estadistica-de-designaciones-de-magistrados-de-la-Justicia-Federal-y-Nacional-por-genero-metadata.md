@@ -25,7 +25,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Estadística de designaciones de magistrados de la Justicia Federal y Nacional por género AAAA-MM-DD
+### Estadística de designaciones de magistrados de la Justicia Federal y Nacional por género - AAAA-MM-DD
 
 -   **Nombre:** estadistica-designacion-magistrados-federal-nacional-por-genero-AAAA-MM-DD.csv
 
