@@ -39,6 +39,8 @@ Recursos disponibles
 
 -   **designacion_anio (date):** año de designación del juez, fiscal o defensor
 
+-   **justicia_federal_o_nacional (int):** indica si se trata de un órgano de la justicia federal o nacional. Toma los valores Federal/Nacional
+
 -   **cargo_tipo (string):** tipo de cargo. Toma los valores:
 
     -   Juez
