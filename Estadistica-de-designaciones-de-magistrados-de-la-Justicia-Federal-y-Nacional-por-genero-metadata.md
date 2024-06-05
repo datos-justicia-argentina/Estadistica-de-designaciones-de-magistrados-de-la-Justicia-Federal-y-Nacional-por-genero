@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** cargos, defensores, federales, fiscales, jueces, justicia, magistrados, nacionales
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+-   **Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+-   **Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+-   **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
 
 -   **Grupo:** Género
 
@@ -92,4 +92,4 @@ Notas:
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 881 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-881-APN-MJ.pdf), del 14 de Noviembre de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 881 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-881-APN-MJ.pdf), del 14 de Noviembre de 2017.
