@@ -12,11 +12,11 @@ Características
 
 -   **Tags o Etiquetas:** cargos, defensores, federales, fiscales, jueces, justicia, magistrados, nacionales
 
--   **Organización:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+-   **Organización:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional de Relaciones con el Poder Judicial. Oficina Decretos
 
--   **Autor:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+-   **Autor:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional de Relaciones con el Poder Judicial. Oficina Decretos
 
--   **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial
+-   **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional de Relaciones con el Poder Judicial. Oficina Decretos
 
 -   **Grupo:** Género
 
